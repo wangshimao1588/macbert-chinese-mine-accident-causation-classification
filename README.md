@@ -1,0 +1,2 @@
+# macbert-chinese-mine-accident-causation-classification
+This project constructs a Chinese text classification model for the causal factors of mining accidents based on MacBERT-BiLSTM, primarily for the automatic identification and classification of accident causal texts. It covers model training, evaluation, and multiple randomized partitioning experiments, providing a reference for related research.
